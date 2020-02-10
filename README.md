@@ -1,8 +1,7 @@
 # xsens_dot-velcro-holder
-c 2020 Johannes Peter Schramel, Veterinary Uiversity Vienna. 
+c 2020 Johannes Peter Schramel, Veterinary University Vienna. 
 Designed with Autodesk Fusion360
-Snap-in holder  for xsens dot IMU´s
-For 20mm width velcro or rubber bands
+Snap-in holder  for xsens dot IMU´s Use with 20mm velcro or rubber bands
 
 Print Parameters:
 Sliced with Cura for Ultimaker S5 
