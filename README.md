@@ -2,6 +2,7 @@
 c 2020 Johannes Peter Schramel, Veterinary University Vienna. 
 Designed with Autodesk Fusion360
 Snap-in holder  for xsens dot IMU´s Use with 20mm velcro or rubber bands
+The version with lugs contains additionally 4 holes for alternative mounting
 
 Print Parameters:
 Sliced with Cura for Ultimaker S5 
