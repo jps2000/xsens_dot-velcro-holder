@@ -7,3 +7,5 @@ The version with lugs contains additionally 4 holes for alternative mounting
 Print Parameters:
 Sliced with Cura for Ultimaker S5 
 Material Nylon, 100% fill, 0.15mm height , support everywhere, no build plate adhesion
+
+Nylon may be too soft after time. Try also ABS, PLA; In case of too strong fixation, cut off 2 of the hooks
